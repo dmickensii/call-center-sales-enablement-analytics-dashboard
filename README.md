@@ -1,5 +1,7 @@
 # Call Center Sales Enablement Analytics Dashboard
+## Dashboard Preview
 
+![Executive Overview](screenshots/executive-overview.png)
 ## Overview
 
 This project demonstrates how business intelligence tools can transform operational sales data into actionable insights. The dashboard analyzes customer acquisition, conversion performance, agent productivity, operational efficiency, revenue generation, and retention metrics through an interactive Power BI reporting solution.
