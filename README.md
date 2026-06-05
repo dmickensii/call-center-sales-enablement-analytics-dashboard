@@ -2,6 +2,16 @@
 ## Dashboard Preview
 
 ![Executive Overview](screenshots/executive-overview.png)
+## Skills Demonstrated
+
+- Power BI Dashboard Development
+- Data Modeling (Star Schema)
+- DAX Measures
+- KPI Reporting
+- Interactive Slicers and Filtering
+- Data Visualization
+- Business Intelligence Analytics
+- Sales Performance Analysis
 ## Overview
 
 This project demonstrates how business intelligence tools can transform operational sales data into actionable insights. The dashboard analyzes customer acquisition, conversion performance, agent productivity, operational efficiency, revenue generation, and retention metrics through an interactive Power BI reporting solution.
